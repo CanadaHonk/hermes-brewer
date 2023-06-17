@@ -1,0 +1,7 @@
+{
+  "alias": {
+    "mocha": "./fills/mocha.js",
+    "chai": "./fills/chai.js"
+  },
+  "type": "module"
+}
